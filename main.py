@@ -24,4 +24,4 @@ print("End")
 #     print(i)
 
 
-#1. Ersetze alle while schleifen durch for Schleifen (nach Möglichkeit)
+#1. Ersetze aalle while schleifen durch for Schleifen (nach Möglichkeit)
