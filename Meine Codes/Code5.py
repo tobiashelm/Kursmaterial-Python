@@ -1,0 +1,8 @@
+print("\n=== HAUPTMENÜ ===")
+        print("[1] Taschenrechner (Addition)")
+        print("[2] Taschenrechner (Subtraktion)")
+        print("[3] Taschenrechner (Multiplikation)")
+        print("[4] Taschenrechner (Division)")
+        print("[5] Uhrzeit anzeigen")
+        print("[6] Zufallszahl generieren")
+        print("[7] Programm beenden")

@@ -131,6 +131,7 @@ while True :
         musik_list.append(song)
         
         print("✅")
+        print(f"[musik_list]")
     elif user_choice.lower() == "quit":
             print("Beende Programm")
             break
